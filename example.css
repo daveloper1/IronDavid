@@ -1,0 +1,17 @@
+.info {
+    background-color:rgb(255, 255, 255);
+}
+
+.title2 {
+    padding-top: 3px;
+    padding-left: 20px;
+    color:navy;
+    text-align: center;
+    
+}
+.word {
+    color:darkorange;
+}
+.summary {
+    background-color: rgb(115, 255, 0);
+}
